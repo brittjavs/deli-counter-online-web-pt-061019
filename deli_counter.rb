@@ -34,4 +34,3 @@ end
  end
 
 take_a_number(katz_deli, 1)
-# Write your code here.
